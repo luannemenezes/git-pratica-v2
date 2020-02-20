@@ -1,0 +1,1 @@
+Criação da dica 3 pelo vscode
